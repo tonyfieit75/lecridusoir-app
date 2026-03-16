@@ -1,0 +1,27 @@
+{
+  "members": {
+    "name": "string",
+    "phone": "string",
+    "spiritual_gift": "string",
+    "created_at": "date"
+  },
+  "prayer_requests": {
+    "user": "string",
+    "request": "string",
+    "category": "string",
+    "status": "open/closed",
+    "created_at": "date"
+  },
+  "conferences": {
+    "title": "string",
+    "theme": "string",
+    "speaker": "string",
+    "start_date": "date",
+    "end_date": "date"
+  },
+  "schedule": {
+    "event": "string",
+    "time": "string",
+    "platform": "Zoom/WhatsApp"
+  }
+}
